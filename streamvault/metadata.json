@@ -1,0 +1,6 @@
+{
+  "name": "StreamVault",
+  "description": "Self-hosted private personal media archive and cloud storage system with server-side yt-dlp ingestion, automated indexing, hardware transcoding, and Tailscale secure access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
